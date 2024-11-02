@@ -1,3 +1,3 @@
 # Shooter
 
-Corinne Daigle 
+Corinne Daigle: Task 2
